@@ -2,7 +2,7 @@ import os
 import shutil
 import hashlib
 import logging
-from pathlib import Path0
+from pathlib import Path
 
 # =========================
 # CONFIG
