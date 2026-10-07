@@ -1,4 +1,4 @@
-import os2
+import os
 import shutil
 import hashlib
 import logging
